@@ -45,7 +45,7 @@ root.mainloop()
 
 
 
-# git status (frivilligt)
-# git add .
-# git commit  -m"Added new code for mongo"
-# git push
+# git status (frivilligt)                   # Behövs inte men visar senaste ändringarna
+# git add .                                 # Lägg till allt fr.o.m root till GitHub
+# git commit  -m "Ngn lämpligt förkl TxT"   # TxT som visas på GitHub för associerade file
+# git push                                  # Pusha upp alla ändringar till GitHub
